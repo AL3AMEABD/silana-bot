@@ -9,46 +9,46 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['0', '-', true],
+['0', '-', false],
+['0', '-', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '0',
+ pairingNumber: '0',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '0',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ author: 'AL3AME',
+ namebot: 'AL3AME',
+ wm: ''-'_꩜ AL3AME BOT꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: 'AL3AME BOT '
 }
 
 // Thumbnail 
 global.url = {
  profil: 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
- did: 'https://telegra.ph/file/fdc1a8b08fe63520f4339.jpg',
- rules: 'https://telegra.ph/file/afcfa712bd09f4fcf027a.jpg',
- thumbnail: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- thumb: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- logo: 'https://telegra.ph/file/161c0a22c03f7859c7599.jpg',
- unReg: 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
- registrasi: 'https://telegra.ph/file/0169f000c9ddc7c3315ff.jpg',
- confess: 'https://telegra.ph/file/03cabea082a122abfa5be.jpg',
- akses: 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg', 
- wel: 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4', // gif welcome 
- bye: 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4', // gif good bye
+ did: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ rules: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ thumbnail: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ thumb: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ logo: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ unReg: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ registrasi: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ confess: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg',
+ akses: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg', 
+ wel: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg', // gif welcome 
+ bye: 'https://telegra.ph/file/cc6c949df04097d566fad.jpg', // gif good bye
  sound: 'https://media.vocaroo.com/mp3/1awgSZYHXP3B' // untuk menu
 }
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://t.me/AL3AMEABDO',
+ sgh:  'https://t.me/AL3AMEABDO',
+ sgc: 'https://t.me/AL3AMEABDO'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
